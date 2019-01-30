@@ -1,23 +1,23 @@
 ## Data
-Contains the orders
-data/bundle_orders
+Contains the orders<br/>
+data/bundle_orders<br/>
 
-Product data, is hardcoded into the main script
+Product data, is hardcoded into the main script<br/>
 
 ## Usage
-ruby bin/flower_power.rb
+ruby bin/flower_power.rb<br/>
 
 ## specs
-Run from the main directory
+Run from the main directory<br/>
 rspec
 
 ## Notes
-No validation of inputs
-No parser for reading in product data
-Will not handle invalid bundle combination
-Does not throw any exceptions at the moment
+No validation of inputs<br/>
+No parser for reading in product data<br/>
+Will not handle invalid bundle combination<br/>
+Does not throw any exceptions at the moment<br/>
 
-Objects
+### Objects
 * ProductInterface
 * Flower < ProductInterface
 * SaleCatalogue
